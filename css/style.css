@@ -1,0 +1,124 @@
+.container {
+  width: 296px;
+  margin: 16px auto 25px auto;
+  padding: 6px 9px 17px 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  background-color: #e6f3fb; }
+
+h3, h4 {
+  margin: 0 0;
+  line-height: 0.9375; }
+
+h3 {
+  font-size: 16px; }
+
+h4 {
+  font-size: 12px; }
+
+p {
+  margin: 0; }
+
+.bold {
+  font-weight: 600; }
+
+.italic {
+  font-style: italic; }
+
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  border-bottom: 4px solid #f7a418; }
+
+.clearfix {
+  clear: both; }
+
+/* Blogroll
+   */
+.blogroll--top--left, .blogroll--top--right,
+.horo--top--left, .horo--top--right,
+.news__content--left {
+  float: left; }
+
+.blogroll h4 {
+  padding-top: 2px;
+  color: #0a6395; }
+
+.blogroll--top {
+  padding: 7px 18px 12px 8px;
+  background-color: #fff; }
+
+.blogroll--top--right {
+  width: 107px;
+  margin-left: 7px; }
+  .blogroll--top--right p {
+    line-height: 1.25; }
+
+.blogroll--bottom__item {
+  display: flex;
+  padding: 9px 0px 12px 10px;
+  border-bottom: 1px solid #fff;
+  color: #0a6395;
+  background-color: #f9f1c2; }
+  .blogroll--bottom__item p {
+    margin-left: 5px; }
+
+/* Horoscopes
+   */
+.horo {
+  margin-top: 4px; }
+
+.horo--top {
+  padding-top: 18px;
+  padding-bottom: 15px;
+  padding-left: 13px;
+  background-color: #fff; }
+
+.horo--top--right {
+  width: 181px;
+  margin-left: 21px; }
+  .horo--top--right h4 {
+    font-size: 16px; }
+  .horo--top--right p {
+    font-size: 11px;
+    line-height: 1.2727272727; }
+    .horo--top--right p:first-of-type {
+      color: #595959;
+      margin-bottom: 12px; }
+
+.horo--bottom {
+  padding: 12px 0px 10px 23px;
+  background-image: url("../images/img_horoscopes_03.png"); }
+  .horo--bottom h4 {
+    color: #0a6395; }
+
+/* News Mobile
+   */
+.news {
+  margin-top: 21px; }
+  .news__content {
+    background-color: #fff; }
+
+.news__content--left {
+  width: 127px;
+  margin: 22px 0 14px 23px; }
+  .news__content--left h4 {
+    margin-top: 11px;
+    font-weight: 100;
+    color: #0a6395; }
+
+.news__content--right {
+  float: right; }
+
+/* COmpetions
+   */
+.competions {
+  margin-top: 9px;
+  padding-top: 7px;
+  border-top: 1px solid #595959; }
+  .competions p {
+    padding: 11px 0 8px 8px;
+    color: #4d5d73;
+    background-color: #fff;
+    border: 1px solid #595959; }
+
+/*# sourceMappingURL=style.css.map */
