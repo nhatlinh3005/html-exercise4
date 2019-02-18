@@ -32,6 +32,9 @@ p {
 .clearfix {
   clear: both; }
 
+a {
+  text-decoration: none; }
+
 /* Blogroll
    */
 .blogroll--top--left, .blogroll--top--right,
