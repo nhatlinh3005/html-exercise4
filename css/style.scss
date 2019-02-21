@@ -90,6 +90,9 @@ a {
       margin-bottom: 12px;
     }
   }
+  a{
+    text-decoration: underline;
+  }
 }
 
 .horo--bottom {
@@ -137,4 +140,7 @@ a {
     border: 1px solid #595959; 
   }
 }
-   
+.comp__title {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+}

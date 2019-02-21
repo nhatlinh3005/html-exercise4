@@ -87,6 +87,8 @@ a {
     .horo--top--right p:first-of-type {
       color: #595959;
       margin-bottom: 12px; }
+  .horo--top--right a {
+    text-decoration: underline; }
 
 .horo--bottom {
   padding: 12px 0px 10px 23px;
@@ -123,5 +125,9 @@ a {
     color: #4d5d73;
     background-color: #fff;
     border: 1px solid #595959; }
+
+.comp__title {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px; }
 
 /*# sourceMappingURL=style.css.map */
